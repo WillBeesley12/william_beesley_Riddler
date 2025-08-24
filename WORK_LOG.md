@@ -1,9 +1,10 @@
 Name: YOUR NAME HERE
 
-| Date   |    Time    |                                                                    Update |
-|:-------|:----------:|--------------------------------------------------------------------------:|
-| Aug 22 |  8-8:30pm  | I started by thinking about my place in the universe.<br/>It was scary... |
-|        |            |                                                             And then I... |
+| Date   |        Time         |                                                                                                                                                                                                                                                                                                                                                                   Update |
+|:-------|:-------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Aug 21 |     10-10:30am      |                                                                                                                                                                                                                                                                                                           Started working on the puzzle using pencil and paper in class. |
+| Aug 21 | 6-6:45 and 7-7:30pm | First we continued working on the solution with pencil and paper to try to solve it before continuing to code. Then, we started to code the for loop to create the main code break (shifting the letters by 9). Ran into some issues with running the file so I tried fixing it (it kind of worked not really). I just kept trying to troubleshoot the Junit afterwards. |
+| Aug 22 |     3:15-4:05pm     |                                             I finally realized how to fix the IDE so now it will actually run my code. From there, I realized that the first one was easier than I thought (the poem was just weird), and started decoding the others, which was a lot quicker. I have just continued working after that and completed the first second and third ones.  |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
