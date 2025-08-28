@@ -59,9 +59,14 @@ public class Riddler {
 
     public String decryptFour(String encrypted) {
         String decrypted = "";
-
-
-
+        for  (int i = 0; i < encrypted.length(); i++) {
+            char c = encrypted.charAt(i);
+            int numericValue = (int) c;
+            numericValue -= 9919;
+            char new_c = (char) numericValue;
+            decrypted += new_c;
+        }
+        System.out.println(decrypted);
         return decrypted;
     }
 }
